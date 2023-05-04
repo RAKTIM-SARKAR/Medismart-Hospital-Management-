@@ -21,6 +21,6 @@ No need to visit or make a call to the hospital for appointment.
 
 •Availability of Doctor
 
-#thankyou 
+# thankyou 
 
-If you like the  Project Hit star button *
+# If you like the  Project Hit star button.
